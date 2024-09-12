@@ -1,0 +1,38 @@
+table{
+    color: #ffffff;
+    text-align: center;
+    border-collapse: collapse;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 45;
+}
+
+tr{
+    height: 120px;
+    background-color: #4e494d;
+}
+
+td{
+    width: 150px;
+    border: 1px solid #ffffff;
+}
+
+#inputBox{
+    background-color: #4e494d;
+    text-align: right;
+    width: 100%;
+    font-size: 2em;
+    color: #fff;
+    border: 0px;
+}
+
+.digiButton{
+    background-color: #807e80;
+}
+
+.operatorButton{
+    background-color: #39a5a893;
+}
+
+.ACButton{
+    background-color: #656165;
+}
